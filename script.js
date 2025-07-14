@@ -49,7 +49,8 @@ overlay.addEventListener('click', () => {
         <strong>Altura máxima:</strong> 1,200 m<br>
         <strong>Peso:</strong> 18 kg<br>
         <strong>Batería:</strong> Celdas de litio + paneles solares activos<br>
-        <strong>Extras:</strong> IA de navegación, control de estabilidad.`
+        <strong>Extras:</strong> IA de navegación, control de estabilidad.<br><br>
+        <strong>Precio:</strong> 2690 IC`
       },
       {
         titulo: "Jetpack Cóndor de Altura",
@@ -62,7 +63,8 @@ overlay.addEventListener('click', () => {
         <strong>Carga completa:</strong> 75 min<br>
         <strong>Altura máxima:</strong> 1,800 m<br>
         <strong>Peso:</strong> 21 kg<br>
-        <strong>Batería:</strong> Inteligente con enfriamiento activo.`
+        <strong>Batería:</strong> Inteligente con enfriamiento activo.<br><br>
+        <strong>Precio:</strong> 2990 IC`
       },
       {
         titulo: "Jetpack Solar Andino",
@@ -75,10 +77,11 @@ overlay.addEventListener('click', () => {
         <strong>Carga completa:</strong> 90 min<br>
         <strong>Altura máxima:</strong> 1,000 m<br>
         <strong>Peso:</strong> 19 kg<br>
-        <strong>Batería:</strong> Solar flexible + respaldo de grafeno.`
+        <strong>Batería:</strong> Solar flexible + respaldo de grafeno.<br><br>
+        <strong>Precio:</strong> 2190 IC`
       },
       {
-        titulo: "Jetpack Sol",
+        titulo: "Jetpack Inti",
         imagen: "imgs/4.jpeg",
         descripcion: `<strong>Innovador:</strong> Energía solar + propulsores híbridos.<br>
         <strong>Cultural peruana:</strong> Emblema de Inti (dios del sol).<br>
@@ -88,7 +91,8 @@ overlay.addEventListener('click', () => {
         <strong>Carga completa:</strong> 55 min<br>
         <strong>Altura máxima:</strong> 1,500 m<br>
         <strong>Peso:</strong> 20 kg<br>
-        <strong>Batería:</strong> Sistema híbrido.`
+        <strong>Batería:</strong> Sistema híbrido.<br><br>
+        <strong>Precio:</strong> 2590 IC`
       }
     ];
 
